@@ -1,0 +1,31 @@
+Rudy Gonzalez
+gonzalru@onid.orst.edu
+
+CS311-400
+
+Homework 4
+
+Testing
+
+I ran each the following tests from the makefile indiviudally and as part of the group batch runs:
+
+Tested the -q option of my program:
+  testq12345
+  testq135
+  testq24
+
+Testing the -t option
+  testt12345
+  testt135
+  testt24
+
+Testing the -v option
+  testv12345
+  testv135
+  testv24
+
+
+Additionally, I did some custom tests:
+  Creating a corrupted archive file and ran my code against it to see if it would catch it.   Tested the ability to add more files to an exiting archve for the -q and -A options.
+  Tested the -d option repeatedly on an existing archive.
+   
