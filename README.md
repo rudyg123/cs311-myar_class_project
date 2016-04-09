@@ -1,4 +1,4 @@
-# cs311-myar_class_project
+# myar_class_project
 cs311 Operating Systems class project. Program myar is written in C in Unix and mirrors the AR command.
 
 This program illustrates the use of file I/O on UNIX by managing a UNIX archive library, in the standard archive format.
